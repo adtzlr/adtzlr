@@ -14,4 +14,4 @@ I'm the author of FElupe, an open-source finite element analysis package focussi
 
 - 🔧 **Mechanics**: [felupe](https://github.com/adtzlr/felupe), [trusspy](https://github.com/adtzlr/trusspy), [contique](https://github.com/adtzlr/contique), [cubrium](https://github.com/adtzlr/cubrium)
 - ⚡ **Automatic Differentiation / Hyperelastic Constitutive Modeling**: [tensortrax](https://github.com/adtzlr/tensortrax), [matadi](https://github.com/adtzlr/matadi)
-- 🔢 **Math**: [Tensor Toolbox](https://github.com/adtzlr/ttb) (Fortran)
+- 🔢 **Math**: [ttb](https://github.com/adtzlr/ttb)
