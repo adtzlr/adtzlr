@@ -16,3 +16,5 @@ I'm convinced that static input files 🖨️ which are passed to a standalone f
 
 - 🔧 **Mechanics**: [felupe](https://github.com/adtzlr/felupe), [matadi](https://github.com/adtzlr/matadi), [trusspy](https://github.com/adtzlr/trusspy), [contique](https://github.com/adtzlr/contique), [cubrium](https://github.com/adtzlr/cubrium)
 - 🔢 **Math**: [tensortrax](https://github.com/adtzlr/tensortrax), [ttb](https://github.com/adtzlr/ttb)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=adtzlr/trusspy,adtzlr/felupe,adtzlr/ttb,adtzlr/tensortrax,adtzlr/matadi,adtzlr/contique&type=Date)](https://star-history.com/#adtzlr/trusspy&adtzlr/felupe&adtzlr/ttb&adtzlr/tensortrax&adtzlr/matadi&adtzlr/contique&Date)
