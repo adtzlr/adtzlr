@@ -14,7 +14,7 @@ I'm convinced that static input files 🖨️ which are passed to a standalone f
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
-- 🔧 **Mechanics**: [felupe](https://github.com/adtzlr/felupe), [matadi](https://github.com/adtzlr/matadi), [trusspy](https://github.com/adtzlr/trusspy), [contique](https://github.com/adtzlr/contique), [cubrium](https://github.com/adtzlr/cubrium)
+- 🔧 **Mechanics**: [felupe](https://github.com/adtzlr/felupe), [matadi](https://github.com/adtzlr/matadi), [trusspy](https://github.com/adtzlr/trusspy), [contique](https://github.com/adtzlr/contique), [cubrium](https://github.com/adtzlr/cubrium), [hyperelastic](https://github.com/adtzlr/hyperelastic)
 - 🔢 **Math**: [tensortrax](https://github.com/adtzlr/tensortrax), [ttb](https://github.com/adtzlr/ttb)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=adtzlr/trusspy,adtzlr/felupe,adtzlr/ttb,adtzlr/tensortrax,adtzlr/matadi,adtzlr/contique&type=Date)](https://star-history.com/#adtzlr/trusspy&adtzlr/felupe&adtzlr/ttb&adtzlr/tensortrax&adtzlr/matadi&adtzlr/contique&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=adtzlr/trusspy,adtzlr/felupe,adtzlr/ttb,adtzlr/tensortrax,adtzlr/matadi,adtzlr/contique,adtzlr/hyperelastic&type=Date)](https://star-history.com/#adtzlr/trusspy&adtzlr/felupe&adtzlr/ttb&adtzlr/tensortrax&adtzlr/matadi&adtzlr/contique&adtzlr/hyperelastic&Date)
