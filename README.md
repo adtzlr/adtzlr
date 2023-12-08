@@ -22,3 +22,8 @@ I'm convinced that static input files 🖨️ which are passed to a standalone f
 - 🔢 **Math**: [tensortrax](https://github.com/adtzlr/tensortrax), [ttb](https://github.com/adtzlr/ttb), [neinsum](https://github.com/adtzlr/named_einsum)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=adtzlr/trusspy,adtzlr/felupe,adtzlr/ttb,adtzlr/tensortrax,adtzlr/matadi,adtzlr/contique,adtzlr/hyperelastic&type=Date)](https://star-history.com/#adtzlr/trusspy&adtzlr/felupe&adtzlr/ttb&adtzlr/tensortrax&adtzlr/matadi&adtzlr/contique&adtzlr/hyperelastic&adtzlr/neinsum&Date)
+
+### Code Snippets
+
+- [1D Finite Element Analysis in 100 Lines of Python Code](https://gist.github.com/adtzlr/8273013eaf56555da04e817650fd6abe)
+
