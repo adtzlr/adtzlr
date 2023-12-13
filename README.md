@@ -26,4 +26,4 @@ I'm convinced that static input files 🖨️ which are passed to a standalone f
 ### Code Snippets
 
 - [1D Finite Element Analysis in 100 Lines of Python Code](https://gist.github.com/adtzlr/8273013eaf56555da04e817650fd6abe)
-
+- [3D Finite Element Analysis in 100 Lines of Python Code](https://gist.github.com/adtzlr/de84b7dbd841fa88ede7d310e156d1e6)
