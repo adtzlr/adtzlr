@@ -4,6 +4,8 @@ this is Andreas, a mechanical engineer graduated from Graz University of Technol
 
 <a rel="me" href="https://mathstodon.xyz/@adtzlr"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
 
+![https://github-readme-stats.vercel.app/api?username=adtzlr&count_private=true&show_icons=true](https://github.com/adtzlr)
+
 Currently, I'm a full-time engineer in the 🚂 railway industry (during the day) and a PhD student at Graz University of Technology at the Institute of Structural Durability and Railway Technology (well, at night... 📚 🕯️). All the tools related to my scientific work are available here on my GitHub profile.
 
 ![sparsity-pattern](sparsity-pattern.svg)
