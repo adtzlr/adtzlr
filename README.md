@@ -6,7 +6,7 @@ this is Andreas, a mechanical engineer graduated from Graz University of Technol
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adtzlr&count_private=true&show_icons=true)](https://github.com/adtzlr)
 
-Currently, I'm a full-time engineer in the 🚂 railway industry (during the day) and a PhD student at Graz University of Technology at the Institute of Structural Durability and Railway Technology (well, at night... 📚 🕯️). All the tools related to my scientific work are available here on my GitHub profile.
+Currently, I'm an engineer in industry (during the day) and a PhD student at Graz University of Technology at the Institute of Structural Durability and Railway Technology (well, at night... 📚 🕯️). All the tools related to my scientific work are available here on my GitHub profile.
 
 ![sparsity-pattern](sparsity-pattern.svg)
 
