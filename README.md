@@ -28,7 +28,7 @@ I'm convinced that static input files 🖨️ which are passed to a standalone f
 ### Code Snippets
 
 - [1D Finite Element Analysis in 100 Lines of Python Code](https://gist.github.com/adtzlr/8273013eaf56555da04e817650fd6abe)
-- [1D Finite Element Analysis in 100 Lines of Python Code (with named tuple instead of SimpleNamespace)](https://gist.github.com/adtzlr/dec05a39fbc3741c1d08b1514b8cb91)
+- [1D Finite Element Analysis in 100 Lines of Python Code (with named tuple instead of SimpleNamespace)](https://gist.github.com/adtzlr/dec05a39fbc3741c1d08b1514b8cb911)
 - [3D Finite Element Analysis in 100 Lines of Python Code](https://gist.github.com/adtzlr/de84b7dbd841fa88ede7d310e156d1e6)
 - [3D Finite Element Analysis in 100 Lines of Python Code (Alternative Assembly)](https://gist.github.com/adtzlr/44314a16ef2a00945e53eb438b7bf87e)
 - [3D Hyperelastic Finite Element Analysis in 140 Lines of Python Code](https://gist.github.com/adtzlr/832abb16767559a2fbea463b939fb0b6)
