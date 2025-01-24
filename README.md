@@ -2,7 +2,7 @@ Hi there 🖐️,
 
 this is Andreas, a mechanical engineer graduated from Graz University of Technology, based in [🏰⛰️](https://en.wikipedia.org/wiki/Schlossberg_(Graz)) Graz, Austria 🇦🇹. In my free time, I like running 🏃‍, skiing ⛷️ and snowboarding 🏂 while I also enjoy family times at home 👨‍👩‍👧‍👦.
 
-<a rel="me" href="https://mathstodon.xyz/@adtzlr"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mathstodon.xyz/@adtzlr) [![committers.top badge](https://user-badge.committers.top/austria_public/adtzlr.svg)](https://user-badge.committers.top/austria_public/adtzlr)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adtzlr&count_private=true&show_icons=true)](https://github.com/adtzlr)
 
@@ -18,7 +18,7 @@ I'm convinced that static input files 🖨️ which are passed to a standalone f
 
 ### Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Jupyter](	https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) ![PyTorch](	https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Codecov](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white) ![PyPI](https://img.shields.io/badge/pypi-3775A9?logo=pypi&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=GitHub%20Pages&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=Codecov&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex)
 
 - 🔧 **Mechanics**: [felupe](https://github.com/adtzlr/felupe), [hyperelastic](https://github.com/adtzlr/hyperelastic), [matadi](https://github.com/adtzlr/matadi), [trusspy](https://github.com/adtzlr/trusspy), [contique](https://github.com/adtzlr/contique), [cubrium](https://github.com/adtzlr/cubrium), [fiberreinforcedrubber](https://github.com/adtzlr/fiberreinforcedrubber)
 - 🔢 **Math**: [tensortrax](https://github.com/adtzlr/tensortrax), [ttb](https://github.com/adtzlr/ttb), [neinsum](https://github.com/adtzlr/named_einsum)
