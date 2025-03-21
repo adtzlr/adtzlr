@@ -10,7 +10,7 @@ Currently, I'm an engineer in industry (during the day) and a PhD student at Gra
 
 ![sparsity-pattern](sparsity-pattern.svg)
 
-I'm the author of 🔍 FElupe, an open-source finite element analysis package focussing on the formulation and numerical solution of nonlinear problems in continuum mechanics of solid bodies. Most of the open source finite element packages I found are either super-difficult to install, needs to be compiled or are great but slow (or at least too slow for my needs).
+I'm the author of 🔍 FElupe, an open-source finite element analysis package focusing on the formulation and numerical solution of nonlinear problems in continuum mechanics of solid bodies. Most of the open source finite element packages I found are either super-difficult to install, needs to be compiled or are great but slow (or at least too slow for my needs).
 
 > With FElupe, I try to fill a gap in between.
 
